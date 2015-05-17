@@ -1,1 +1,1 @@
-This is where may keep some information about my website as I build it.
+This is where I may keep some information about my website as I build it.
